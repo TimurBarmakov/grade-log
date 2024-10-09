@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logBlock {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 2551px;
+}
+
+.fz18 {
+  font-size: 18px;
+}
+
+.fz26 {
+  font-size: 26px;
+}
+
+.fw400 {
+  font-weight: 400;
+}
+
+.fw500 {
+  font-weight: 500;
+}
+
+.fw600 {
+  font-weight: 600;
+}
+
+.w20 {
+  width: 20%;
+}
